@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace IdentityServer4.OpenAPI
 {
     /// <summary>
-    /// Default implementation of the swagger gen response generator
+    /// Default implementation of the OpenApiDocument generator
     /// </summary>
     /// <seealso cref="IOpenAPIDocumentGenerator" />
     public class OpenAPIDocumentGenerator : IOpenAPIDocumentGenerator
